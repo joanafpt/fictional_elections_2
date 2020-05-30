@@ -1,0 +1,38 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+s{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+}
+
+#welcome{
+    font-family: 'Open Sans Condensed';
+    font-size: 55px;
+}
+
+#autom-redirect{
+   
+    text-align: left !important;
+    background-color: transparent;
+    border: 1px solid white;
+    outline: none !important;
+  /*  color: #66ccff; */
+
+}
+
+#p1{
+    color: #66ccff;
+}

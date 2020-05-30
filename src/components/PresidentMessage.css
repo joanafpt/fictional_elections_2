@@ -1,0 +1,13 @@
+.ecra{
+ margin-left: 5%;
+ margin-right: 5%;
+}
+
+#txt{
+    margin: 35px;
+}   
+
+#frame-mensagem{
+  height: 400px; 
+  background-color: transparent;       
+}

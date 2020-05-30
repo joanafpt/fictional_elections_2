@@ -1,0 +1,29 @@
+
+.navbar-brand{
+    background-color: transparent; 
+     font-size: 20px; 
+     font-family: 'Calibri';
+}
+.nav-item{
+     color: white; 
+     font-size: 20px; 
+     font-family: 'Calibri'; 
+}
+.nav-link, .navbar-brand {
+    display: block;
+    color: rgb(255, 254, 254);
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+.nav-link:hover:not(.active),
+ .navbar-brand:hover:not(.active), 
+ .dropdown-item:hover:not(.active){ 
+    background-color: rgb(196, 204, 204);
+    color: white;
+  }
+  
+.navbar-icon{
+    background-color: transparent;
+    padding-right: 30px; 
+}

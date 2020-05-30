@@ -1,0 +1,61 @@
+.col-md{
+    background-color: transparent;
+}
+
+#refr-button{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#outer-div{   
+    margin-top: 20%;
+    margin-bottom: 5%;
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-bottom: 20%;
+}
+    
+.dummytext{
+    text-align: justify;
+    background-color: transparent;
+    height: 600px; 
+    width:400px; 
+     /* overflow-y: auto; */
+}
+
+#disclaimer{
+    text-align: justify;
+    background-color: transparent;
+    height: 400px;
+    width: 400px; 
+    /* overflow-y: auto; */
+}
+
+
+#sem_id{
+    text-align: justify;
+    background-color: transparent;
+    height: 400px;
+    width: 400px; 
+    /* overflow-y: auto; */
+ }
+
+.info-graph{
+    background-color: transparent;
+    height: 600px; 
+    width: 400px; 
+    text-align: justify;
+}
+
+
+.ty{
+   margin-left:20px;
+   margin-right: 20px;
+   background-color: transparent;
+ }
+
+ #graph-and-text{
+  background-color: transparent;
+  }
+
+

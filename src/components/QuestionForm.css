@@ -1,0 +1,56 @@
+
+#ecra1{
+    height: 370px; 
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+}
+
+form{
+    background-color: transparent; 
+    align-content: center;
+    justify-content: center;
+}
+
+input, select {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    color: grey;
+    width:100px;
+    height:30px;
+    border : 1px #ccc solid;
+    vertical-align:top;
+}
+
+#display-message-bottom{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    background-color: transparent;
+    height: 50px; 
+
+}
+
+#success{
+    padding-top: 8px;
+}
+
+#niente{
+    padding-top: 8px;
+}
+
+#go-button{
+margin-right: 1px;
+}
+
+#back-button{
+    background-color: grey;
+    color: white;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+#reset-button{
+    margin-left: 1px;
+}

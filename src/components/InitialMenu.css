@@ -1,0 +1,47 @@
+#vote{
+width:280px; 
+height: 100px;
+background-color: transparent;
+}
+
+#gr{
+    width: 280px; 
+    height: 100px;
+    background-color: transparent; 
+}
+
+#info{
+    width: 280px; 
+    height: 100px;
+    background-color: transparent;
+}
+
+#president-msg { 
+  width: 280px; 
+  height: 100px;
+  background-color: transparent;
+} 
+
+#contact { 
+  width: 280px; 
+  height: 100px;
+  background-color: transparent;
+} 
+
+#centro { 
+  width: 280px; 
+  height: 100px;
+  background-color: transparent;
+} 
+
+button{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+#cont{
+  justify-content: center;
+  align-items: center;
+}
+

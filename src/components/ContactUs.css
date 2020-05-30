@@ -1,0 +1,38 @@
+
+#contact-us{
+    padding-top: 100px; 
+    padding-left: 100px;     
+}
+
+#contact-container{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: transparent;
+    align-items: center;
+    height: 400px;   
+}
+
+#conversa{
+    background-color: transparent;
+    border-left: 1px solid;
+}
+
+#telephone-mail-address{
+    background-color: transparent;
+    border-right: 1px solid;
+    background-color: transparent;
+    height: 350px;
+    text-align: justify;    
+}
+
+#text-contact{
+    text-align: justify;
+    line-height: 2;
+    height: 350px;
+    background-color: transparent;
+}
+
+#frame{
+    background-color: transparent;
+    margin-top: 30%; 
+}
